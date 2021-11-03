@@ -1,3 +1,3 @@
 # youmusiclib-web-python
 
-Projeto de uma biblioteca de músicas online em Python
+Projeto de uma biblioteca de streaming de músicas em Python. Fez parte do projeto: https://github.com/andersonmends/youmusiclib-web
